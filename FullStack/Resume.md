@@ -2,12 +2,12 @@
 This is for the resume.
 
 ## Bio-Data
-Name : Vikash Rana
-DOB : 04-03-1996
-Mobile No. : +91-720529xxxx
-Email : kumarv.rana@gmail.com
-Github : https://github.com/Vikash-Rana
-Linkdin : www.linkedin.com/in/vikash-rana
+Name : Vikash Rana <br />
+DOB : 04-03-1996 <br />
+Mobile No. : +91-720529xxxx <br />
+Email : kumarv.rana@gmail.com <br />
+Github : https://github.com/Vikash-Rana <br />
+Linkdin : www.linkedin.com/in/vikash-rana <br />
 
 ## Skills
 
@@ -29,3 +29,10 @@ Running
 1. React js
 2. Redux
 3. Node js
+
+## Expreience
+Company : MUVI Enterainment Pvt. Ltd. <br />
+Position : Test Automation Engineer <br />
+Year of Exp. : 2.3 year <br />
+
+
