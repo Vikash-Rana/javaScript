@@ -48,11 +48,10 @@ Description :
    * It is the online tool which helps to manage the Projects and personal task. <br />
 
 Features : 
-   * User can add the login/logout. <br />
-   * User can add the Card. <br />
-   * User can add the Task. <br />
-   * Able to Edit the Card/Task. <br />
-   * Able to Edit the Card/Task. <br />
+   * User can login/logout. <br />
+   * User can add the Card/Task. <br />
+   * Able to Edit/delete the Card/Task. <br />
+   * Able to Edit/delete the Card/Task. <br />
 
 Tech Stack : 
    * React js <br />
@@ -96,7 +95,7 @@ Role : Write the Automation Script. <br />
 
 Measure Success : <br />
 
-Motivation : It's the 1st project of mine. Learn to work. <br />
+Motivation : It is designed on similiar concept like "NetFlix" except "MicroService" <br />
 
 Result: Successed <br />
 
@@ -147,18 +146,18 @@ Features :
 
 Tech Stack : Postman, Selenium, Jmetre, Java, Jenkins<br />
 
-Diffcuities : <br />
+Diffcuities : Develop the FrameWork of the Automation.<br />
 
-Learn : <br />
+Learn : Develop the Automation Framework, API testing, Development<br />
 
-Team Size : <br />
+Team Size : 3 <br />
 
-Work Distrubution : <br />
+Work Distrubution : Based on the modules(i.e Billing, UI, Functionality) <br />
 
-Role : <br />
+Role : To test the API response<br />
 
 Measure Success : <br />
 
-Motivation : <br />
+Motivation : Automation Framework <br />
 
-Result: <br />
+Result: Successful<br />
