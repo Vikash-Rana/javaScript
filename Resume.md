@@ -50,4 +50,4 @@ Running
    Time : September '18 to December '18
 
 3. Scaler Academy
-   Time : July '19 to Present
+   Time : July '19 to Present 
