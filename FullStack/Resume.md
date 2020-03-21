@@ -1,6 +1,4 @@
 # Resume : Vikash Rana
-This is for the resume.
-
 #### updated at 21-03-2020
 
 ## Bio-Data
@@ -13,28 +11,11 @@ Linkdin : www.linkedin.com/in/vikash-rana <br />
 
 ## Skills
 
-Proficient
-1. Java
-2. C++
-3. Data Structure & Algorithm
-
-Familer
-1. Python
-2. Maven
-3. Testng
-4. JavaScript
-
-Framework 
-1. Selenium
-
-Database
-1. MySQL
-2. NoSQL
-
-Running
-1. React js
-2. Redux
-3. Node js
+1. Proficient : Java, C++ <br />
+2. Familer : Python, Maven, Testng, JavaScript <br />
+3. Framework : Selenium <br />
+4. Database : MySQL, NoSQL <br />
+5. Working : React js, Redux, Node js <br />
 
 ## Education
 1. "Institute Of Technical Education And Research" in Computer Science & Engineering with 7.64 cgpa.
@@ -49,5 +30,5 @@ Running
 2. Data Science with Machine Learning <br />
    Time : September '18 to December '18
 
-3. Scaler Academy
+3. Scaler Academy <br />
    Time : July '19 to Present
