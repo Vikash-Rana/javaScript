@@ -42,15 +42,18 @@ Linkdin : www.linkedin.com/in/vikash-rana <br />
 
 #### Trello
 Time :  <br />
+
 Description : 
    * I tried to create the clone of the Trello. <br />
    * It is the online tool which helps to manage the Projects and personal task. <br />
+
 Features : 
    * User can add the login/logout. <br />
    * User can add the Card. <br />
    * User can add the Task. <br />
    * Able to Edit the Card/Task. <br />
    * Able to Edit the Card/Task. <br />
+
 Tech Stack : 
    * React js <br />
    * Redux <br />
@@ -58,27 +61,88 @@ Tech Stack :
    * MongoDb <br />
 
 Diffcuities : <br />
+
 Learn : React & Redux, Node js, Mongodb <br />
+
 Team Size : Indiviusal <br />
+
 Measure Success : <br />
+
 Motivation : Wanted to become the FullStack Developer.(InterviewBit Project) <br />
+
 Result: Successed/Unsuccessed <br />
 
 #### Pickbox 
 Time : Dec '18 to July '18 <br />
+
 Description : <br />
+
 Features : It is the pay-per-view VOD platform. Through which the Eduser can able to watch the contain, after purchasing the Subscription/pay-per-view. And it is also based on Geo-Location. <br />
+
 Tech Stack : Java, Selenium <br />
+
 Diffcuities : <br />
+
 Learn : Selenium, Manual Testing (Smoke Test, Functionality Test) <br />
+
 Team Size : 3 <br />
+
 Work Distrubution : To write the testcase for each functioality and on basic of that write the Automation Script. If the feature is new for this Customer.  <br />
+
 Role : Write the Automation Script. <br />
+
 Measure Success : <br />
+
 Motivation : It's the 1st project of mine. Learn to work. <br />
+
 Result: Successed <br />
+
 #### 6by3.tv
-Time : 
+Time : <br />
+
+Description : <br />
+
+Features : <br />
+
+Tech Stack : <br />
+
+Diffcuities : <br />
+
+Learn : <br />
+
+Team Size : <br />
+
+Work Distrubution : <br />
+
+Role : <br />
+
+Measure Success : <br />
+
+Motivation : <br />
+
+Result: <br />
 
 #### Kingjesus
-Time : 
+Time : <br />
+
+Description : <br />
+
+Features : <br />
+
+Tech Stack : <br />
+
+Diffcuities : <br />
+
+Learn : <br />
+
+Team Size : <br />
+
+Work Distrubution : <br />
+
+Role : <br />
+
+Measure Success : <br />
+
+Motivation : <br />
+
+Result: <br />
