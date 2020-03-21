@@ -33,6 +33,9 @@ Linkdin : www.linkedin.com/in/vikash-rana <br />
 3. Scaler Academy <br />
    Time : July '19 to Present
 
+4. Intership (Muvi)<br />
+   Works as a web developer.
+
 ### Achievements / POR
 1. Actively Memeber of the Cricket Sports Team.
 2. Solve 500+ question on LeetCode/InterviewBit.
@@ -91,7 +94,7 @@ Team Size : 3 <br />
 
 Work Distrubution : To write the testcase for each functioality and on basic of that write the Automation Script. If the feature is new for this Customer.  <br />
 
-Role : Write the Automation Script. <br />
+Role : Develop the Automation Script for the Billing Module, Specially related to the different payment Gateway. <br />
 
 Measure Success : <br />
 
@@ -124,7 +127,7 @@ Team Size : 6<br />
 
 Work Distrubution : Works distrubuted among the different Platform team which is responsible for the indiviual features.<br />
 
-Role : TestCase for the New Feature "Live Streaming" and develop the Automation script for this.<br />
+Role : Develop the Automation script for the feature "Live Streaming" and write all TestCase for this Feature.<br />
 
 Measure Success : <br />
 
@@ -148,7 +151,7 @@ Tech Stack : Postman, Selenium, Jmetre, Java, Jenkins<br />
 
 Diffcuities : Develop the FrameWork of the Automation.<br />
 
-Learn : Develop the Automation Framework, API testing, Development<br />
+Learn : Develop the Automation Framework, API testing, Deployment<br />
 
 Team Size : 3 <br />
 
@@ -161,3 +164,4 @@ Measure Success : <br />
 Motivation : Automation Framework <br />
 
 Result: Successful<br />
+
