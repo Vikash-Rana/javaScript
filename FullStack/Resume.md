@@ -43,19 +43,20 @@ Linkdin : www.linkedin.com/in/vikash-rana <br />
 #### Trello
 Time :  <br />
 Description : 
-* I tried to create the clone of the Trello. <br />
-* It is the online tool which helps to manage the Projects and personal task. <br />
+   * I tried to create the clone of the Trello. <br />
+   * It is the online tool which helps to manage the Projects and personal task. <br />
 Features : 
-* User can add the login/logout. <br />
-* User can add the Card. <br />
-* User can add the Task. <br />
-* Able to Edit the Card/Task. <br />
-* Able to Edit the Card/Task. <br />
+   * User can add the login/logout. <br />
+   * User can add the Card. <br />
+   * User can add the Task. <br />
+   * Able to Edit the Card/Task. <br />
+   * Able to Edit the Card/Task. <br />
 Tech Stack : 
-* React js <br />
-* Redux <br />
-* Node js <br />
-* MongoDb <br />
+   * React js <br />
+   * Redux <br />
+   * Node js <br />
+   * MongoDb <br />
+
 Diffcuities : <br />
 Learn : React & Redux, Node js, Mongodb <br />
 Team Size : Indiviusal <br />
