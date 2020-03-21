@@ -68,22 +68,25 @@ Team Size : Indiviusal <br />
 
 Measure Success : <br />
 
-Motivation : Wanted to become the FullStack Developer.(InterviewBit Project) <br />
+Motivation : Wanted to become the FullStack Developer(InterviewBit Project). <br />
 
 Result: Successed/Unsuccessed <br />
 
 #### Pickbox 
-Time : Dec '18 to July '18 <br />
+Time : Dec '18 to July '19 <br />
 
-Description : <br />
+Description : This is the VOD site, which contains alot of varities web series, movies etc. And the Enduser can watch this all contents after paying the feasible amount through the PPV and access it.<br />
 
-Features : It is the pay-per-view VOD platform. Through which the Eduser can able to watch the contain, after purchasing the Subscription/pay-per-view. And it is also based on Geo-Location. <br />
+Features : 
+* Pay-Per-View <br />
+* Voucher <br />
+* Subscription <br />
 
 Tech Stack : Java, Selenium <br />
 
 Diffcuities : <br />
 
-Learn : Selenium, Manual Testing (Smoke Test, Functionality Test) <br />
+Learn : Selenium, Manual Testing(Smoke Test, Functionality Test) <br />
 
 Team Size : 3 <br />
 
@@ -97,39 +100,52 @@ Motivation : It's the 1st project of mine. Learn to work. <br />
 
 Result: Successed <br />
 
-#### 6by3.tv
+#### 6by3studio.com
 Time : <br />
 
-Description : <br />
+Description : This is is based on the Yoga. All the video which are avavible in the website are all about the yoga of the top class instructors. It has also the Live session with the instructor, for that it uses the new feature "Live Streaming" which will helps to stream the live video/session through their website.<br />
 
-Features : <br />
+Features : 
+* Live Streaming <br />
+* Studio Approved DRM 
+* Partner Portal
+* Analytics & Reports
+* Coupons & Promotions
+* Subscription (SVOD)
+* Pay-Per-View (PPV) / TVOD
+* Video Advertising (AVOD)
 
-Tech Stack : <br />
+Tech Stack : Java, Selenium, Jmetre <br />
 
-Diffcuities : <br />
+Diffcuities : To test the load of the website when the huge amount of Enduser stream the Live Video.<br />
 
-Learn : <br />
+Learn : About the Load testing with the help of Jmetre and Automation Script.<br />
 
-Team Size : <br />
+Team Size : 6<br />
 
-Work Distrubution : <br />
+Work Distrubution : Works distrubuted among the different Platform team which is responsible for the indiviual features.<br />
 
-Role : <br />
+Role : TestCase for the New Feature "Live Streaming" and develop the Automation script for this.<br />
 
 Measure Success : <br />
 
 Motivation : <br />
 
-Result: <br />
+Result: Successful<br />
 
 #### Kingjesus
 Time : <br />
 
-Description : <br />
+Description : This is site having the collection of all kinds of video and the Enduser is able to watch all the content after they purchase the Subsciption/PPV. <br />
 
-Features : <br />
+Features : 
+* Analytics & Reports
+* Coupons & Promotions
+* Subscription (SVOD)
+* Pay-Per-View (PPV) / TVOD
+* Video Advertising (AVOD)<br />
 
-Tech Stack : <br />
+Tech Stack : Postman, Selenium, Jmetre, Java, Jenkins<br />
 
 Diffcuities : <br />
 
