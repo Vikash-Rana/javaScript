@@ -32,3 +32,49 @@ Linkdin : www.linkedin.com/in/vikash-rana <br />
 
 3. Scaler Academy <br />
    Time : July '19 to Present
+
+### Achievements / POR
+1. Actively Memeber of the Cricket Sports Team.
+2. Solve 500+ question on LeetCode/InterviewBit.
+3. 
+
+## Project
+
+#### Trello
+Time :  <br />
+Description : * I tried to create the clone of the Trello. <br />
+              * It is the online tool which helps to manage the Projects and personal task. <br />
+Features : * User can add the login/logout. <br />
+           * User can add the Card. <br />
+           * User can add the Task. <br />
+           * Able to Edit the Card/Task. <br />
+           * Able to Edit the Card/Task. <br />
+Tech Stack : * React js <br />
+             * Redux <br />
+             * Node js <br />
+             * MongoDb <br />
+Diffcuities : 
+Learn : React & Redux, Node js, Mongodb
+Team Size : Indiviusal
+Measure Success :
+Motivation : Wanted to become the FullStack Developer.(InterviewBit Project) 
+Result: Successed/Unsuccessed
+
+#### Pickbox 
+Time : Dec '18 to July '18
+Description : 
+Features : It is the pay-per-view VOD platform. Through which the Eduser can able to watch the contain, after purchasing the Subscription/pay-per-view. And it is also based on Geo-Location. 
+Tech Stack : Java, Selenium
+Diffcuities : 
+Learn : Selenium, Manual Testing (Smoke Test, Functionality Test)
+Team Size : 3
+Work Distrubution : To write the testcase for each functioality and on basic of that write the Automation Script. If the feature is new for this Customer.   
+Role : Write the Automation Script.
+Measure Success : 
+Motivation : It's the 1st project of mine. Learn to work.
+Result: Successed
+#### 6by3.tv
+Time : 
+
+#### Kingjesus
+Time : 
